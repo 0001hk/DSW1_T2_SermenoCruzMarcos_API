@@ -1,4 +1,4 @@
-# DSW1_T2_SermenoCruzMarcos_Backend
+# DSW1_T2_SermenoCruzMarcos_API
 
 Este proyecto implementa una API RESTful para la gestión de préstamos de libros, utilizando la arquitectura de Clean Architecture (Domain, Application, Infrastructure, API) sobre .NET 8 y Entity Framework Core con MySQL.
 
@@ -14,7 +14,7 @@ Este proyecto implementa una API RESTful para la gestión de préstamos de libro
 
 ### Configuración y Ejecución del Proyecto
 
-Configurar el .env 
+Configurar el .env en la capa API
 
 DB_SERVER	
 
@@ -37,3 +37,4 @@ DB_PASSWORD
 ### INGRESAR AL SWAGGER PARA PRUEBAS
 
 http://localhost:5132/swagger
+
