@@ -1,0 +1,6 @@
+@DSW1_T2_SermenoCruzMarcos.API_HostAddress = http://localhost:5132
+
+GET {{DSW1_T2_SermenoCruzMarcos.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
